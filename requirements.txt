@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.4.2
+ratelimit==2.2.1
+langchain
+langgraph
+openai
+duckduckgo-search
+langchain-community
+sympy
+langchain-google-vertexai
+google-cloud-aiplatform
+pypdf
+sentence-transformers
