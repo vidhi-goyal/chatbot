@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\prasukh.jain\Desktop\api\moglix-generative-ai-6dbda5816de0 1.json"
